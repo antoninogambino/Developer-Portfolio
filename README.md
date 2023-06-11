@@ -82,12 +82,17 @@ To ensure my portfolio reflects my updated skills and web presence, I have made 
 
 **Screenshots of REACT**
 
-Home 
+**Home**
+
 ![image](https://github.com/antoninogambino/Developer-Portfolio/assets/112243266/35abd05a-1e84-459b-857b-32d39c1060f7)
 
-Projects
+**Projects**
+
 ![image](https://github.com/antoninogambino/Developer-Portfolio/assets/112243266/00810f1c-315e-415a-b909-4f6eb5f59392)
 
-Contact
+**Contact**
+
+![image](https://github.com/antoninogambino/Developer-Portfolio/assets/112243266/da9b9f63-cc4a-4e39-a7ce-863399d61c71)
+
 
 
