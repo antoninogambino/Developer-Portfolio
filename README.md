@@ -82,4 +82,11 @@ To ensure my portfolio reflects my updated skills and web presence, I have made 
 
 **Screenshots of REACT**
 
+Home 
+![image](https://github.com/antoninogambino/Developer-Portfolio/assets/112243266/35abd05a-1e84-459b-857b-32d39c1060f7)
+
+Projects
+
+Contact
+
 
