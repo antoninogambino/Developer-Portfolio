@@ -86,6 +86,7 @@ Home
 ![image](https://github.com/antoninogambino/Developer-Portfolio/assets/112243266/35abd05a-1e84-459b-857b-32d39c1060f7)
 
 Projects
+![image](https://github.com/antoninogambino/Developer-Portfolio/assets/112243266/00810f1c-315e-415a-b909-4f6eb5f59392)
 
 Contact
 
